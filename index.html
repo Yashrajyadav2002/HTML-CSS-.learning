@@ -4,12 +4,39 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>form</title>
+    <link rel="icon" href="dig.jpg">
 </head>
-<body>
+<body bgcolor="pink">
 
-    <form>
+    <!-- <form>
         <input type="date" >
         <input type="checkbox" value="your hobbies">
+        <input type="radio"name="gender">male
+        <input type="radio"name="gender">female
+        <input type="radio"name="gender">other
+
+
+    </form>
+    options<select>
+        <option value=>game</option>
+        <option value=>ondoor</option>
+        <option value=>outdoor</option>
+        <option value=>home</option>
+    </select> -->
+    <form action="https://api.web3forms.com/submit" method="POST">
+
+        <input type="hidden" name="access_key" value="8119721d-8a32-470d-b9be-b4ab893bdc09">
+
+
+
+        enter name <input type="text" name="game"><br><br>
+        enter number <input type="number" name="game"><br><br>
+        enter email <input type="email" name="game"><br><br>
+        enter date <input type="date" name="game"><br><br>
+        
+        <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+        
+        <input type="submit" name="" value="send queary">
     </form>
     
 </body>
