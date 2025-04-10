@@ -6,14 +6,31 @@ body{
 }
 .second{
     background-color: beige;
+    text-decoration: underline;
+}
+.head{
+    text-decoration: dotted;
 }
 .upper{
     color: blueviolet;
     text-align: center;
     font-size: 80px0;
     text-transform: uppercase;
-    text-decoration: underline;
+    /* text-decoration: underline; */
     text-decoration-color: chocolate;
     text-decoration-style: wavy;
+    letter-spacing: normal;
+    text-shadow: 6px 8px 6px blue;
     
+}
+.pera{
+    font-weight: bold;
+    font-style: italic;
+    line-height: 50px;
+}
+.sec{
+    background-color: red;
+    color: white;
+    padding: 20px;
+
 }
