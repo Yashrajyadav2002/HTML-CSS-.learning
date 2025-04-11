@@ -34,3 +34,22 @@ body{
     padding: 20px;
 
 }
+.sec01{
+    background-color: blue;
+    color: whitesmoke;
+    margin: 20px;
+    border: 15px solid greenyellow;
+    border-radius: 16px;
+    box-shadow: 3px 4px 6px 7px black;
+}
+.main{
+    display:flex;
+    h1{
+        color: brown;
+        border: 6px solid goldenrod;
+        margin: 20px;
+        padding: 20px;
+
+    }
+    
+}
