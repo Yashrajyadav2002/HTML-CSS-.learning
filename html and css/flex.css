@@ -1,0 +1,51 @@
+ .sec{
+    display: flex;
+    text-align: center;
+    text-align: center;
+    padding-left: 300px;
+    padding-top: 100px;
+    
+ }
+    
+
+.row{
+
+    display:table;
+    border: 2px solid black;
+    margin: 20px;
+    
+
+}
+.column{
+    height: 150px;
+    width: 200px;
+    margin: 20px;
+    h3{
+        font-style: bold;
+    }
+
+}
+
+.but{
+    
+    background-color: black;
+    border:5px solid black ;
+    border-radius: 10px;
+    color: azure;
+    padding: 4px 25px 4px 25px;
+}
+.class1{
+    
+    
+    border: 2px solid black;
+    margin: 20px;
+
+
+}
+.class2{
+
+    display:table;
+    border: 2px solid black;
+    margin: 20px;
+
+}
