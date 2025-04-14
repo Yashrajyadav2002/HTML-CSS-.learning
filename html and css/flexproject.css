@@ -1,0 +1,13 @@
+section{
+    display: flex;
+    justify-content:space-evenly ;
+    align-items: center;
+    gap: 70px;
+}
+button{
+    background-color: red;
+    color: aliceblue;
+}
+.sec{
+    background-color: orange;
+}
