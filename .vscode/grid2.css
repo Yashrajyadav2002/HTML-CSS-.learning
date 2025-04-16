@@ -1,0 +1,13 @@
+.ch1,.ch2,.ch3,.ch4,.ch5,.ch5,.ch6,.ch7,.ch8,.ch9{
+    background-color: blueviolet;
+    border: 2px solid brown;
+    
+}
+.cont{
+    background-color: blue;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    grid-template-rows: 300px,200px;
+
+}
