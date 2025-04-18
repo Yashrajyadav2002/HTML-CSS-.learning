@@ -1,0 +1,22 @@
+.d1,.d2,.d3,.d4,.d5,.d6{
+    background-color: aqua;
+    border: 2px solid green;
+
+}
+.cont{
+    background-color:aqua;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    grid-template-rows: 300px,200px;
+
+}
+.d1{
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+.d6{
+    grid-column-start: 1;
+    grid-column-end: 4;
+
+}

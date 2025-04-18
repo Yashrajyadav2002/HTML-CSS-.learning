@@ -1,0 +1,11 @@
+.btn:hover{
+    background-color: aqua;
+    color: black;
+    border: 2px solid red;
+    padding: 20px;
+    border-radius: 10px;
+}
+#click:checked~body{
+    background-color: blueviolet;
+    color: brown;
+}
