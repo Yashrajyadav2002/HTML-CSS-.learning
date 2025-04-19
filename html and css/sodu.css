@@ -1,0 +1,27 @@
+input::placeholder{
+    color: blueviolet;
+    padding: 30px;
+}
+p::selection{
+    color: white;
+    background-color: aqua;
+
+}
+h1{
+    font-family: "Bungee Spice", sans-serif;
+
+}
+h2{
+    font-family: "Playwrite RO", cursive;
+}
+.sodu::after{
+   
+    content:" yadavji " ;
+    color: brown;
+
+}
+.sodu::before{
+    content:" mr ";
+    color: aqua;
+
+}

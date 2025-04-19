@@ -5,7 +5,7 @@
     padding: 20px;
     border-radius: 10px;
 }
-#click:checked~body{
+#click:checked~.body{
     background-color: blueviolet;
     color: brown;
 }
