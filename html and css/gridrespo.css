@@ -1,0 +1,22 @@
+.sec{
+    display: grid;
+    height: 100vh;
+    grid-template-columns: repeat(4,auto);
+    gap:30px;
+
+}
+.sec div{
+    background-color: aqua;
+    border: 2px solid red;
+}
+@media screen  and (min-width:450px) and (max-width:750px){
+    
+    .sec{
+        grid-template-columns: repeat(2,auto);
+    }
+}
+@media screen and (max-width:449px) {
+    .sec{
+        grid-template-columns: repeat(1,auto);
+    }
+}
