@@ -1,0 +1,16 @@
+.sec{
+    background-color:orange;
+    display: flex;
+
+
+}
+.sec ul{
+    display: flex;
+    padding-left: 800px;
+    gap:80px;
+
+    
+}
+#pic{
+    
+}
