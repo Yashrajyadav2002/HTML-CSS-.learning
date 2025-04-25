@@ -4,10 +4,17 @@ section{
     align-items: center;
     gap: 70px;
 }
-button{
-    background-color: red;
-    color: aliceblue;
-}
+
+
 .sec{
     background-color: orange;
 }
+.but{
+    background-color: red;
+}
+.but:hover{
+color:black;
+background-color: brown;
+border-radius: 5px;
+}
+

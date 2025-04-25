@@ -6,7 +6,11 @@
     background-color:orange;
     
 }
-.con{
-    
-
+.but{
+    color:blue;
+    background-color: palegreen;
+    border-radius: 10px;
+}
+.img{
+    margin-left: 10px;
 }

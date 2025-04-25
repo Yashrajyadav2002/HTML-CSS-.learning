@@ -13,7 +13,7 @@ body{
 }
 .nav ul{
     display: flex;
-    gap:30px;
+    gap:80px;
     list-style: none;
 }
 
